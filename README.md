@@ -5,6 +5,7 @@ My name is Matt Escalante, and I'm a 28 year old software engineer from Michigan
 
 ## Interests at the moment
 - React.js
+- ASP.NET Core
 - Node.js & Express.js
 - TypeScript
 - Vitest
